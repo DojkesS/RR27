@@ -1,1 +1,6 @@
-print("Hello")
+a = 4
+b = 3
+c = 9
+d = 5
+print('a', 'b', 'c', 'd', c/d, a/b,)
+
